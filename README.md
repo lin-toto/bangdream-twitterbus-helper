@@ -1,4 +1,4 @@
-# Bang Dream! Twitter Bus Helper
+# BanG Dream! Twitter Bus Helper
 
 这是一个邦邦手游（Bang Dream! バンドリ！ガルスバンドパーティー）推特上车助手。
 
