@@ -9,7 +9,7 @@
 
 # Usage
 
-```
+```bash
 pip install -r requirements.txt
 mv config.py.sample config.py
 vim config.py # 使用自己的Twitter Key
